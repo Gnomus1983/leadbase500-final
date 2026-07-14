@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Planeta Moldova",
+    "niche": "craft",
+    "reason": "insufficient_evidence",
+    "source_urls": [],
+    "checked_at": "2026-07-13",
+    "notes": "Phone/Instagram seen previously, but exact physical address was not publicly confirmed in the current checkpoint."
+  },
+  {
+    "name": "Căsuța Creației",
+    "niche": "craft",
+    "reason": "insufficient_evidence",
+    "source_urls": [],
+    "checked_at": "2026-07-13",
+    "notes": "Exact Chișinău address requires confirmation before import."
+  },
+  {
+    "name": "Pottery Etta",
+    "niche": "craft",
+    "reason": "insufficient_evidence",
+    "source_urls": [],
+    "checked_at": "2026-07-13",
+    "notes": "Works by order; physical client-facing activity in Chișinău not confirmed enough."
+  },
+  {
+    "name": "Sunny Bunny Kids Club",
+    "niche": "kids",
+    "reason": "insufficient_evidence",
+    "source_urls": [],
+    "checked_at": "2026-07-13",
+    "notes": "Phone/social profile found, exact address not confirmed."
+  },
+  {
+    "name": "Malinki — Smart Kids Club",
+    "niche": "kids",
+    "reason": "insufficient_evidence",
+    "source_urls": [],
+    "checked_at": "2026-07-13",
+    "notes": "Social profile found, but address/contact confirmation is incomplete."
+  },
+  {
+    "name": "Picpon Auto",
+    "niche": "detailing",
+    "reason": "insufficient_evidence",
+    "source_urls": [],
+    "checked_at": "2026-07-13",
+    "notes": "Facebook/phone found, exact physical location not confirmed."
+  },
+  {
+    "name": "YOGAGO Studio",
+    "niche": "yoga",
+    "reason": "insufficient_evidence",
+    "source_urls": [],
+    "checked_at": "2026-07-13",
+    "notes": "Studio/social mention found, exact address not confirmed."
+  },
+  {
+    "name": "Antonciuc Tatiana / Tiana Beauty",
+    "niche": "beauty",
+    "reason": "insufficient_evidence",
+    "source_urls": [],
+    "checked_at": "2026-07-13",
+    "notes": "APNT found an address and phone, but the Instagram value was malformed and a second independent source was not confirmed."
+  },
+  {
+    "name": "Nicolle Beauty",
+    "niche": "beauty",
+    "reason": "insufficient_evidence",
+    "source_urls": [],
+    "checked_at": "2026-07-13",
+    "notes": "APNT search result showed phone/Instagram, but exact street address was not captured in the current checkpoint."
+  },
+  {
+    "name": "Groomingpet.md / iGroomingPet",
+    "niche": "grooming",
+    "reason": "duplicate_or_related_identity",
+    "source_urls": [],
+    "checked_at": "2026-07-13",
+    "notes": "Shares the same Instagram as existing Pet Grooming Expert lead, while public sources show a different address; kept out of verified until entity/location split is manually confirmed."
+  },
+  {
+    "name": "Corobciuc Cristina Nails",
+    "niche": "nails",
+    "reason": "malformed_social_url",
+    "source_urls": [],
+    "checked_at": "2026-07-13",
+    "notes": "APNT confirms address/phone, but the Instagram URL is malformed; hold until exact social profile is confirmed."
+  },
+  {
+    "name": "Tatiana Radu Cosmetolog",
+    "niche": "beauty",
+    "reason": "insufficient_contact_data",
+    "source_urls": [],
+    "checked_at": "2026-07-13",
+    "notes": "WorldPlaces confirms local activity, but phone/exact independent contact source was not captured."
+  },
+  {
+    "name": "Mile Coffee",
+    "niche": "coffee",
+    "reason": "insufficient_address_data",
+    "source_urls": [],
+    "checked_at": "2026-07-13",
+    "notes": "Instagram source found, but exact address and phone were not confirmed in this checkpoint."
+  }
+]

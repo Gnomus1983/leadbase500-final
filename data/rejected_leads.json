@@ -1,0 +1,645 @@
+[
+  {
+    "name": "CYBER.MD PREMIUM",
+    "niche": "courses",
+    "reason": "website_found",
+    "website_url": "https://cyber.md",
+    "source_urls": [
+      "https://yandex.md/maps/org/cyber_md_premium/81137073205/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Assorti Travel",
+    "niche": "courses",
+    "reason": "outside_scope",
+    "website_url": "",
+    "source_urls": [
+      "https://yandex.md/maps/org/assorti_travel/10217357334/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "13 Barbershop",
+    "niche": "barber",
+    "reason": "website_found",
+    "website_url": "https://13barbershop.md/",
+    "source_urls": [
+      "https://13barbershop.md/",
+      "https://yandex.com/maps/org/13_barbershop/96051856955/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "YOGAGO",
+    "niche": "yoga",
+    "reason": "website_found",
+    "website_url": "https://yogago.md/",
+    "source_urls": [
+      "https://yogago.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Ansuya Yoga",
+    "niche": "yoga",
+    "reason": "website_found",
+    "website_url": "https://ansuya.md/",
+    "source_urls": [
+      "https://ansuya.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Fit Point",
+    "niche": "fitness",
+    "reason": "website_found",
+    "website_url": "https://fitpoint.md/",
+    "source_urls": [
+      "https://fitpoint.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "ZSPORT",
+    "niche": "fitness",
+    "reason": "website_found",
+    "website_url": "https://zsport.md/",
+    "source_urls": [
+      "https://zsport.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "SVOY Barbershop",
+    "niche": "barber",
+    "reason": "website_found",
+    "website_url": "https://svoy.md/",
+    "source_urls": [
+      "https://svoy.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Pet Club Md",
+    "niche": "veterinary",
+    "reason": "website_found",
+    "website_url": "https://petclub.md/",
+    "source_urls": [
+      "https://petclub.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "DaviDan",
+    "niche": "bakery",
+    "reason": "website_found",
+    "website_url": "https://davidan.md/",
+    "source_urls": [
+      "https://davidan.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Stăpânul Mesei / SM Roastery",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://stapinulmesei.md/",
+    "source_urls": [
+      "https://stapinulmesei.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "ZooMama",
+    "niche": "veterinary",
+    "reason": "website_found",
+    "website_url": "https://zoomama.md/",
+    "source_urls": [
+      "https://zoomama.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "DetailGarage",
+    "niche": "detailing",
+    "reason": "website_found",
+    "website_url": "https://detailgarage.md/",
+    "source_urls": [
+      "https://detailgarage.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "AUTOHUB detailing",
+    "niche": "detailing",
+    "reason": "website_found",
+    "website_url": "https://autohub.md/",
+    "source_urls": [
+      "https://autohub.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "WOW Mobile Detailing",
+    "niche": "detailing",
+    "reason": "website_found",
+    "website_url": "https://wow-detailing.md/",
+    "source_urls": [
+      "https://wow-detailing.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "SmartyKids",
+    "niche": "kids",
+    "reason": "website_found",
+    "website_url": "https://smarty-kids.md/",
+    "source_urls": [
+      "https://smarty-kids.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Asertiv",
+    "niche": "kids",
+    "reason": "website_found",
+    "website_url": "https://www.asertiv.md/",
+    "source_urls": [
+      "https://www.asertiv.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Grooming House",
+    "niche": "grooming",
+    "reason": "possible_website_found",
+    "website_url": "https://grooming-chisinau.business.site/",
+    "source_urls": [
+      "https://www.fastbase.com/countryindex/Moldova/G/grooming-house-chisinau-a434478399"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Ivilius Dent",
+    "niche": "dentistry",
+    "reason": "website_found",
+    "website_url": "https://iviliusdent.md/",
+    "source_urls": [
+      "https://iviliusdent.md/",
+      "https://www.instagram.com/iviliusdent/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Cristi Dent",
+    "niche": "dentistry",
+    "reason": "website_found",
+    "website_url": "https://www.cristident.md/",
+    "source_urls": [
+      "https://www.cristident.md/",
+      "https://yandex.com/maps/org/cristi_dent/7798971150/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Detailing Lab",
+    "niche": "detailing",
+    "reason": "website_found",
+    "website_url": "https://www.detailinglab.md/",
+    "source_urls": [
+      "https://www.detailinglab.md/",
+      "https://www.instagram.com/detailing_lab_md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Master Doors",
+    "niche": "doors",
+    "reason": "website_found",
+    "website_url": "https://masterdoors.md/",
+    "source_urls": [
+      "https://masterdoors.md/",
+      "https://www.instagram.com/masterdoors.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "SLAVGO Bucătării",
+    "niche": "kitchens",
+    "reason": "website_found",
+    "website_url": "https://mobila-la-comanda.md/ro/",
+    "source_urls": [
+      "https://mobila-la-comanda.md/ro/",
+      "https://www.instagram.com/bucatarii_slavgo/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Cafeneaua Veche",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://cafeneauaveche.md/ro/",
+    "source_urls": [
+      "https://cafeneauaveche.md/ro/",
+      "https://www.instagram.com/cafeneauaveche.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "TerraDent",
+    "niche": "dentistry",
+    "reason": "website_found",
+    "website_url": "https://terradent.md/",
+    "source_urls": [
+      "https://terradent.md/",
+      "https://www.instagram.com/terradent.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Coffee Capsula",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://coffeecapsula.md/",
+    "source_urls": [
+      "https://www.instagram.com/coffee.capsula/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Coffee Molka",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://coffeemolka.md/",
+    "source_urls": [
+      "https://coffeemolka.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Kosmonavtika Coffee",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://kosmonavtika.md/",
+    "source_urls": [
+      "https://kosmonavtika.md/en"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Con Gusto",
+    "niche": "bakery",
+    "reason": "website_found",
+    "website_url": "https://www.congusto.md/",
+    "source_urls": [
+      "https://www.congusto.md/",
+      "https://gurmand.md/ro/listings/con-gusto/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Smart Start Kids Academy",
+    "niche": "kids",
+    "reason": "website_found",
+    "website_url": "https://www.smartstart.md/",
+    "source_urls": [
+      "https://www.facebook.com/SmartStartKidsAcademy/",
+      "https://moldexpo.md/upload/expositions/catalogs/575519ed12979.pdf"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Dia Dents",
+    "niche": "dentistry",
+    "reason": "website_found",
+    "website_url": "https://diadents.md/",
+    "source_urls": [
+      "https://diadents.md/",
+      "https://www.instagram.com/clinica.diadents/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Life Dental Clinic",
+    "niche": "dentistry",
+    "reason": "website_found",
+    "website_url": "https://www.lifedental.md/",
+    "source_urls": [
+      "https://www.facebook.com/implanturidentarepremium/",
+      "https://www.instagram.com/reel/DU8Evy4DTOy/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Imperial Dent",
+    "niche": "dentistry",
+    "reason": "website_found",
+    "website_url": "https://imperialdent.md/",
+    "source_urls": [
+      "https://imperialdent.md/en/",
+      "https://www.instagram.com/imperialdentclinica/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Family Smile Dental Care",
+    "niche": "dentistry",
+    "reason": "website_found",
+    "website_url": "https://www.familysmile.md/",
+    "source_urls": [
+      "https://www.facebook.com/Familysmiledentalcare/",
+      "https://www.instagram.com/family_smile_dental_care/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "VetAsist",
+    "niche": "veterinary",
+    "reason": "website_found",
+    "website_url": "https://vetasist.com.md/ro/",
+    "source_urls": [
+      "https://vetasist.com.md/ro/",
+      "https://yandex.com/maps/org/vetasist/175326310521/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Mobilat.md",
+    "niche": "furniture",
+    "reason": "website_found",
+    "website_url": "https://mobilat.md/",
+    "source_urls": [
+      "https://www.instagram.com/mobilat_md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Nice House",
+    "niche": "furniture",
+    "reason": "website_found",
+    "website_url": "https://nice-house.md/",
+    "source_urls": [
+      "https://www.instagram.com/p/DZsOotPIRRh/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Miller's Cake",
+    "niche": "confectionery",
+    "reason": "website_found",
+    "website_url": "https://millerscake.md/",
+    "source_urls": [
+      "https://www.instagram.com/millerscake.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Plaisir Patiserie",
+    "niche": "confectionery",
+    "reason": "website_found",
+    "website_url": "https://plaisir.md/",
+    "source_urls": [
+      "https://www.facebook.com/plaisirpatiseriecofetarie/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Bright Wise",
+    "niche": "kids",
+    "reason": "website_found",
+    "website_url": "https://brightwise.md/",
+    "source_urls": [
+      "https://brightwise.md/ru/?thim_elementor_kit=footer-new-ru",
+      "https://www.semia.md/ro/news/fastrackids_news_brightwise/default.aspx"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Interior de Lux",
+    "niche": "furniture",
+    "reason": "website_found",
+    "website_url": "https://interiordelux.md/",
+    "source_urls": [
+      "https://interiordelux.md/contacte/",
+      "https://www.instagram.com/reel/DYw5oZ0sZju/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Grace Mobila / AL-GRACE",
+    "niche": "furniture",
+    "reason": "possible_website_found",
+    "website_url": "profile_bio_website_reported",
+    "source_urls": [
+      "https://www.instagram.com/reel/DZiXQHggZbv/",
+      "https://infodebit.md/1025600031770/societatea-cu-raspundere-limitata-al-grace"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Mobila Rebicon",
+    "niche": "furniture",
+    "reason": "website_found",
+    "website_url": "https://www.rebicon.md/",
+    "source_urls": [
+      "https://www.rebicon.md/contact",
+      "https://www.waze.com/live-map/directions/mobila-rebicon-plus-str.-mitropolit-dosoftei-115-chisinau?to=place.w.18874838.188879456.23404161"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "TANDEM",
+    "niche": "furniture",
+    "reason": "website_found",
+    "website_url": "https://tandem.md/ro/",
+    "source_urls": [
+      "https://tandem.md/ro/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Life Dental",
+    "niche": "dentistry",
+    "reason": "website_found",
+    "website_url": "https://lifedental.md/",
+    "source_urls": [
+      "https://yandex.md/maps/org/life_dental/153404610344/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Tesand",
+    "niche": "doors",
+    "reason": "website_found",
+    "website_url": "https://tesand.md/",
+    "source_urls": [
+      "https://tesand.md/",
+      "https://www.instagram.com/tesand.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Termopane.md / Fermod Plast",
+    "niche": "windows",
+    "reason": "website_found",
+    "website_url": "https://termopane.md/",
+    "source_urls": [
+      "https://termopane.md/",
+      "https://construct.md/ro/pages/company/fermod_plast/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Notré Café",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://notre.md/",
+    "source_urls": [
+      "https://restaurantguru.com/NOTRE-Cafe-and-Clothing-store-Chisinau"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Lumea Fierului",
+    "niche": "doors",
+    "reason": "website_found",
+    "website_url": "https://lumeafierului.md/",
+    "source_urls": [
+      "https://www.instagram.com/p/ChpCvQat0-i/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Valent.md",
+    "niche": "windows",
+    "reason": "website_found",
+    "website_url": "https://valent.md/",
+    "source_urls": [
+      "https://www.instagram.com/reel/DYy8AeZoPul/",
+      "https://www.facebook.com/valentermopane/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Ferestre.md",
+    "niche": "windows",
+    "reason": "website_found",
+    "website_url": "https://ferestre.md/",
+    "source_urls": [
+      "https://www.facebook.com/ferestre.md/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Chicago Night Club",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://club-chicago.md/",
+    "source_urls": [
+      "https://restaurantguru.com/Chicago-Night-Club-Chisinau"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Select Banquet Hall",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://select.md/",
+    "source_urls": [
+      "https://restaurantguru.com/Select-Banquet-Hall-Chisinau-2"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Andy's Pizza",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://andys.md/",
+    "source_urls": [
+      "https://restaurantguru.com/Andys-Chisinau-5"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "La Plăcinte",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://laplacinte.md/",
+    "source_urls": [
+      "https://restaurantguru.com/La-Placinte-Chisinau-6"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Sushka",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://sushka.md/",
+    "source_urls": [
+      "https://restaurantguru.com/Sushka-Chisinau-2"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Miadora",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://miadora.md/",
+    "source_urls": [
+      "https://restaurantguru.com/Restaurant-MiaDora-Chisinau"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Miez Brutarie Artizanala",
+    "niche": "bakery",
+    "reason": "website_found",
+    "website_url": "https://miez-brutarie-artizanala.localo.site/",
+    "source_urls": [
+      "https://restaurantguru.com/Miez-Brutarie-artizanala-Chisinau-Chisinau"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Sauna Afina",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://afina.vva.md/",
+    "source_urls": [
+      "https://restaurantguru.com/Afina-Chisinau"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Luxury Cafe - Coffee Showroom",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://luxurycafe.md/",
+    "source_urls": [
+      "https://restaurantguru.com/Luxury-Cafe-Chisinau-2"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Piers",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://piers.md/",
+    "source_urls": [
+      "https://restaurantguru.com/Chernomorka-Chisinau",
+      "https://data2b.md/en/companies/1021600034050/srl-piers-com/"
+    ],
+    "checked_at": "2026-07-13"
+  },
+  {
+    "name": "Table 9 Lounge & Bar",
+    "niche": "coffee",
+    "reason": "website_found",
+    "website_url": "https://table9.md/",
+    "source_urls": [
+      "https://restaurantguru.com/Table-9-Lounge-and-Bar-Chisinau"
+    ],
+    "checked_at": "2026-07-13"
+  }
+]
