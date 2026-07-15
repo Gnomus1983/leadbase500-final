@@ -13,7 +13,7 @@ ALLOWED_NICHES = {
     "dentistry", "beauty", "nails", "barber", "fitness", "yoga", "bakery",
     "coffee", "confectionery", "furniture", "kitchens", "doors", "windows",
     "plumbing", "renovation", "interior", "kids", "courses", "veterinary",
-    "grooming", "detailing", "autoservice", "craft"
+    "grooming", "detailing", "autoservice", "craft", "psychology"
 }
 REQUIRED = [
     "id", "name", "niche", "locality", "source_urls", "website_status",
@@ -44,8 +44,8 @@ def main():
     errors = []
     leads = json.loads(DATA.read_text(encoding="utf-8"))
 
-    if len(leads) != 500:
-        errors.append(f"expected 500 leads, found {len(leads)}")
+    if len(leads) != 574:
+        errors.append(f"expected 574 leads, found {len(leads)}")
 
     ids = Counter(x.get("id", "") for x in leads)
     for item, count in ids.items():

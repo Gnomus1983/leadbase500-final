@@ -1,29 +1,33 @@
 # Source Coverage
 
-Checkpoint date: 2026-07-13
+Checkpoint date: 2026-07-15
 
 ## Working-set coverage
 
-- Verified leads in this checkpoint: 500
-- Leads with 2+ source URLs: 500
-- Leads with map/directory URL: 60
-- Leads with social profile: 308
+- Verified leads in this checkpoint: 574
+- Leads with 2+ source URLs: 574
+- Leads with map/directory URL: 89
+- Leads with social profile: 355
 - Rejected / excluded records: 62
 - Uncertain records held out: 13
 
 ## Source host counts
 
-- instagram.com: 221
-- google.com: 221
+- instagram.com: 254
+- google.com: 233
 - g0.md: 216
-- facebook.com: 143
+- facebook.com: 159
 - apnt.app: 122
 - beautynailhairsalons.com: 62
+- search.brave.com: 45
 - restaurantguru.com: 35
+- yandex.md: 31
 - yandex.com: 21
 - moovitapp.com: 7
 - diez.md: 6
+- vk.com: 6
 - familia.md: 3
+- t.me: 3
 - asp.gov.md: 2
 - fest.md: 2
 - educat.md: 2
@@ -39,7 +43,6 @@ Checkpoint date: 2026-07-13
 - wanderlog.com: 1
 - worldplaces.me: 1
 - moldova.travel: 1
-- yandex.md: 1
 - nextjourneyahead.com: 1
 - nokta.md: 1
 - ansa.gov.md: 1
@@ -63,6 +66,9 @@ Checkpoint date: 2026-07-13
 - noi.md: 1
 - autoforum.md: 1
 - locals.md: 1
+- wa.me: 1
+- max.ru: 1
+- ok.ru: 1
 
 ## Coverage limitations
 

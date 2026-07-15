@@ -1,17 +1,17 @@
 # LeadBase 500 Verification Report
 
-Checkpoint date: 2026-07-13
+Checkpoint date: 2026-07-15
 
-- Verified leads: 500
+- Verified leads: 574
 - Target: 500
-- With phone: 447
-- With exact address: 500
-- With Instagram: 194
-- With Facebook: 178
+- With phone: 476
+- With exact address: 574
+- With Instagram: 225
+- With Facebook: 194
 - Confirmed legal name: 8
 - Confirmed IDNO: 8
-- High confidence: 447
-- Medium confidence: 53
+- High confidence: 476
+- Medium confidence: 98
 - Rejected with website found: 59
 - Uncertain / held for re-check: 13
 
@@ -36,6 +36,7 @@ Checkpoint date: 2026-07-13
 - Окна, стеклопакеты, балконы (windows): 2
 - Фитнес-клубы и тренажёрные залы (fitness): 7
 - Курсы и учебные центры (courses): 1
+- Психологи, психотерапевты и коучи (psychology): 74
 
 ## Quota Deviations
 

@@ -4,7 +4,7 @@
     "niche": "craft",
     "reason": "insufficient_evidence",
     "source_urls": [],
-    "checked_at": "2026-07-13",
+    "checked_at": "2026-07-15",
     "notes": "Phone/Instagram seen previously, but exact physical address was not publicly confirmed in the current checkpoint."
   },
   {
@@ -12,7 +12,7 @@
     "niche": "craft",
     "reason": "insufficient_evidence",
     "source_urls": [],
-    "checked_at": "2026-07-13",
+    "checked_at": "2026-07-15",
     "notes": "Exact Chișinău address requires confirmation before import."
   },
   {
@@ -20,7 +20,7 @@
     "niche": "craft",
     "reason": "insufficient_evidence",
     "source_urls": [],
-    "checked_at": "2026-07-13",
+    "checked_at": "2026-07-15",
     "notes": "Works by order; physical client-facing activity in Chișinău not confirmed enough."
   },
   {
@@ -28,7 +28,7 @@
     "niche": "kids",
     "reason": "insufficient_evidence",
     "source_urls": [],
-    "checked_at": "2026-07-13",
+    "checked_at": "2026-07-15",
     "notes": "Phone/social profile found, exact address not confirmed."
   },
   {
@@ -36,7 +36,7 @@
     "niche": "kids",
     "reason": "insufficient_evidence",
     "source_urls": [],
-    "checked_at": "2026-07-13",
+    "checked_at": "2026-07-15",
     "notes": "Social profile found, but address/contact confirmation is incomplete."
   },
   {
@@ -44,7 +44,7 @@
     "niche": "detailing",
     "reason": "insufficient_evidence",
     "source_urls": [],
-    "checked_at": "2026-07-13",
+    "checked_at": "2026-07-15",
     "notes": "Facebook/phone found, exact physical location not confirmed."
   },
   {
@@ -52,7 +52,7 @@
     "niche": "yoga",
     "reason": "insufficient_evidence",
     "source_urls": [],
-    "checked_at": "2026-07-13",
+    "checked_at": "2026-07-15",
     "notes": "Studio/social mention found, exact address not confirmed."
   },
   {
@@ -60,7 +60,7 @@
     "niche": "beauty",
     "reason": "insufficient_evidence",
     "source_urls": [],
-    "checked_at": "2026-07-13",
+    "checked_at": "2026-07-15",
     "notes": "APNT found an address and phone, but the Instagram value was malformed and a second independent source was not confirmed."
   },
   {
@@ -68,7 +68,7 @@
     "niche": "beauty",
     "reason": "insufficient_evidence",
     "source_urls": [],
-    "checked_at": "2026-07-13",
+    "checked_at": "2026-07-15",
     "notes": "APNT search result showed phone/Instagram, but exact street address was not captured in the current checkpoint."
   },
   {
@@ -76,7 +76,7 @@
     "niche": "grooming",
     "reason": "duplicate_or_related_identity",
     "source_urls": [],
-    "checked_at": "2026-07-13",
+    "checked_at": "2026-07-15",
     "notes": "Shares the same Instagram as existing Pet Grooming Expert lead, while public sources show a different address; kept out of verified until entity/location split is manually confirmed."
   },
   {
@@ -84,7 +84,7 @@
     "niche": "nails",
     "reason": "malformed_social_url",
     "source_urls": [],
-    "checked_at": "2026-07-13",
+    "checked_at": "2026-07-15",
     "notes": "APNT confirms address/phone, but the Instagram URL is malformed; hold until exact social profile is confirmed."
   },
   {
@@ -92,7 +92,7 @@
     "niche": "beauty",
     "reason": "insufficient_contact_data",
     "source_urls": [],
-    "checked_at": "2026-07-13",
+    "checked_at": "2026-07-15",
     "notes": "WorldPlaces confirms local activity, but phone/exact independent contact source was not captured."
   },
   {
@@ -100,7 +100,7 @@
     "niche": "coffee",
     "reason": "insufficient_address_data",
     "source_urls": [],
-    "checked_at": "2026-07-13",
+    "checked_at": "2026-07-15",
     "notes": "Instagram source found, but exact address and phone were not confirmed in this checkpoint."
   }
 ]
