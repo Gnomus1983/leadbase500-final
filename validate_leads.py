@@ -44,8 +44,8 @@ def main():
     errors = []
     leads = json.loads(DATA.read_text(encoding="utf-8"))
 
-    if len(leads) != 574:
-        errors.append(f"expected 574 leads, found {len(leads)}")
+    if len(leads) != 575:
+        errors.append(f"expected 575 leads, found {len(leads)}")
 
     ids = Counter(x.get("id", "") for x in leads)
     for item, count in ids.items():

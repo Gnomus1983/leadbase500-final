@@ -37138,7 +37138,79 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--501",
+    "id": "chisinau-nails-rstyle-nail-studio-501",
+    "name": "Rstyle Nail Studio",
+    "legal_name": "",
+    "legal_form": "",
+    "idno": "",
+    "legal_identity_status": "not_publicly_confirmed",
+    "niche": "nails",
+    "niche_label": "Маникюрные студии",
+    "owner_or_manager": "",
+    "locality": "Chișinău",
+    "sector": "Chișinău",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "phone": [],
+    "whatsapp": "",
+    "email": "",
+    "instagram": "https://www.instagram.com/rstyle.nailstudio/",
+    "facebook": "",
+    "tiktok": "",
+    "telegram": "",
+    "maps_url": "",
+    "directory_urls": [],
+    "source_urls": [
+      "https://www.instagram.com/rstyle.nailstudio/",
+      "https://www.google.com/search?q=%22rstyle.nailstudio%22+website+OR+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B9%D1%82"
+    ],
+    "outreach_status": "новый",
+    "demo_site_url": "",
+    "website_status": "verified_no_site",
+    "website_found_url": "",
+    "website_checks": [
+      {
+        "method": "brand_exact_search",
+        "query": "\"Rstyle Nail Studio\" website OR \"official site\" OR \"site oficial\" Chișinău",
+        "result": "no_owned_site_found_in_public_search_checkpoint"
+      },
+      {
+        "method": "brand_md_domain_search",
+        "query": "\"Rstyle Nail Studio\" site:.md",
+        "result": "no_owned_md_domain_found_in_public_search_checkpoint"
+      },
+      {
+        "method": "builder_search",
+        "query": "\"Rstyle Nail Studio\" site:tilda.ws OR site:wixsite.com OR site:sites.google.com",
+        "result": "no_builder_landing_found_in_public_search_checkpoint"
+      },
+      {
+        "method": "bio_link_check",
+        "query": "https://www.instagram.com/rstyle.nailstudio/ bio links / website field",
+        "result": "no_owned_website_link_recorded_in_checked_public_sources"
+      },
+      {
+        "method": "phone_exact_search",
+        "query": "\"Rstyle Nail Studio\" phone Chișinău",
+        "result": "no_owned_site_found_from_phone_search_checkpoint"
+      },
+      {
+        "method": "probable_domain_check",
+        "query": "rstylenailstudio.md rstylenailstudio.com rstylenailstudio.ro",
+        "result": "no_probable_owned_domain_confirmed_in_checkpoint"
+      }
+    ],
+    "verified_at": "2026-07-15",
+    "activity_evidence": "Public Instagram profile identifies medical pedicure/manicure and facial massage in Chișinău; no external website link was present in the public profile during the check.",
+    "confidence": "medium",
+    "purchase_score": 7,
+    "estimated_budget_mdl": "5 000–12 000",
+    "recommended_approach": "Предложить мобильный сайт для услуг медицинского педикюра и маникюра: прайс, сертификаты, фото работ и запись.",
+    "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
+  },
+  {
+    "id": "chisinau-psychology--502",
     "name": "Мария",
     "legal_name": "",
     "legal_form": "",
@@ -37210,7 +37282,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--502",
+    "id": "chisinau-psychology--503",
     "name": "Кишинёв",
     "legal_name": "",
     "legal_form": "",
@@ -37282,7 +37354,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--503",
+    "id": "chisinau-psychology--504",
     "name": "Петрова Елена",
     "legal_name": "",
     "legal_form": "",
@@ -37354,7 +37426,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psychology-prof-504",
+    "id": "chisinau-psychology-psychology-prof-505",
     "name": "Psychology Prof",
     "legal_name": "",
     "legal_form": "",
@@ -37426,7 +37498,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--505",
+    "id": "chisinau-psychology--506",
     "name": "ПСИХОЛОГИ 🇲🇩",
     "legal_name": "",
     "legal_form": "",
@@ -37498,7 +37570,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psiholog-psihoterapeut-506",
+    "id": "chisinau-psychology-psiholog-psihoterapeut-507",
     "name": "PSIHOLOG-PSIHOTERAPEUT",
     "legal_name": "",
     "legal_form": "",
@@ -37570,7 +37642,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-diana-dedina-507",
+    "id": "chisinau-psychology-diana-dedina-508",
     "name": "Diana Dedina",
     "legal_name": "",
     "legal_form": "",
@@ -37642,7 +37714,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-liudmila-zarbailov-508",
+    "id": "chisinau-psychology-liudmila-zarbailov-509",
     "name": "Liudmila Zarbailov",
     "legal_name": "",
     "legal_form": "",
@@ -37714,7 +37786,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-centrul-medical-eurolab-509",
+    "id": "chisinau-psychology-centrul-medical-eurolab-510",
     "name": "Centrul Medical EUROLAB",
     "legal_name": "",
     "legal_form": "",
@@ -37786,7 +37858,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-masaj-510",
+    "id": "chisinau-psychology-masaj-511",
     "name": "MASAJ",
     "legal_name": "",
     "legal_form": "",
@@ -37858,7 +37930,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-masaj-chisinau-511",
+    "id": "chisinau-psychology-masaj-chisinau-512",
     "name": "Masaj Chișinău",
     "legal_name": "",
     "legal_form": "",
@@ -37930,7 +38002,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-clinica-sante-retea-nationala-de-centre-medicale-clinicas-512",
+    "id": "chisinau-psychology-clinica-sante-retea-nationala-de-centre-medicale-clinicas-513",
     "name": "Clinica Sante-Rețea națională de centre medicale (@clinicas...",
     "legal_name": "",
     "legal_form": "",
@@ -38002,7 +38074,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-primaria-municipiului-chisinau-513",
+    "id": "chisinau-psychology-primaria-municipiului-chisinau-514",
     "name": "Primăria Municipiului Chișinău",
     "legal_name": "",
     "legal_form": "",
@@ -38074,7 +38146,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-pediatrica-moldova-514",
+    "id": "chisinau-psychology-pediatrica-moldova-515",
     "name": "Pediatrica Moldova",
     "legal_name": "",
     "legal_form": "",
@@ -38146,7 +38218,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-malybu-retea-de-manichiura-pedichiura-si-gene-515",
+    "id": "chisinau-psychology-malybu-retea-de-manichiura-pedichiura-si-gene-516",
     "name": "Malybu REȚEA de manichiură / pedichiură și gene",
     "legal_name": "",
     "legal_form": "",
@@ -38218,7 +38290,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-clinica-de-endocrinologie-516",
+    "id": "chisinau-psychology-clinica-de-endocrinologie-517",
     "name": "Clinica de Endocrinologie",
     "legal_name": "",
     "legal_form": "",
@@ -38290,7 +38362,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-keune-moldova-517",
+    "id": "chisinau-psychology-keune-moldova-518",
     "name": "KEUNE MOLDOVA",
     "legal_name": "",
     "legal_form": "",
@@ -38362,7 +38434,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-piana-vyshnia-chisinau-518",
+    "id": "chisinau-psychology-piana-vyshnia-chisinau-519",
     "name": "Piana Vyshnia Chișinău",
     "legal_name": "",
     "legal_form": "",
@@ -38434,7 +38506,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-magazinul-online-emag-md-519",
+    "id": "chisinau-psychology-magazinul-online-emag-md-520",
     "name": "Magazinul Online - Emag.md",
     "legal_name": "",
     "legal_form": "",
@@ -38506,7 +38578,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-synevo-moldova-520",
+    "id": "chisinau-psychology-synevo-moldova-521",
     "name": "SYNEVO MOLDOVA",
     "legal_name": "",
     "legal_form": "",
@@ -38578,7 +38650,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-pesoto-521",
+    "id": "chisinau-psychology-pesoto-522",
     "name": "Компания \"Pesoto\" в Молдове.",
     "legal_name": "",
     "legal_form": "",
@@ -38650,7 +38722,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-smart-md-522",
+    "id": "chisinau-psychology-smart-md-523",
     "name": "Smart.md",
     "legal_name": "",
     "legal_form": "",
@@ -38722,7 +38794,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-equivalenza-moldova-523",
+    "id": "chisinau-psychology-equivalenza-moldova-524",
     "name": "Equivalenza Moldova",
     "legal_name": "",
     "legal_form": "",
@@ -38794,7 +38866,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-cyber-md-524",
+    "id": "chisinau-psychology-cyber-md-525",
     "name": "CYBER.MD - Компьютерный Клуб Кишинев",
     "legal_name": "",
     "legal_form": "",
@@ -38866,7 +38938,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--525",
+    "id": "chisinau-psychology--526",
     "name": "Психолог Максим Никора",
     "legal_name": "",
     "legal_form": "",
@@ -38942,7 +39014,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--526",
+    "id": "chisinau-psychology--527",
     "name": "Американский Медицинский Центр",
     "legal_name": "",
     "legal_form": "",
@@ -39018,7 +39090,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-pro-aba-solution-527",
+    "id": "chisinau-psychology-pro-aba-solution-528",
     "name": "Pro Aba Solution",
     "legal_name": "",
     "legal_form": "",
@@ -39094,7 +39166,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--528",
+    "id": "chisinau-psychology--529",
     "name": "Психолог Онила О. В.",
     "legal_name": "",
     "legal_form": "",
@@ -39170,7 +39242,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-amicul-529",
+    "id": "chisinau-psychology-amicul-530",
     "name": "Amicul",
     "legal_name": "",
     "legal_form": "",
@@ -39246,7 +39318,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-academica-530",
+    "id": "chisinau-psychology-academica-531",
     "name": "Academica",
     "legal_name": "",
     "legal_form": "",
@@ -39322,7 +39394,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--531",
+    "id": "chisinau-psychology--532",
     "name": "Психолог Анастасия Лунёва",
     "legal_name": "",
     "legal_form": "",
@@ -39398,7 +39470,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-studioul-psihologic-de-arta-532",
+    "id": "chisinau-psychology-studioul-psihologic-de-arta-533",
     "name": "Психологическая Арт Студия Studioul Psihologic de Arta",
     "legal_name": "",
     "legal_form": "",
@@ -39474,7 +39546,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-biantti-533",
+    "id": "chisinau-psychology-biantti-534",
     "name": "Biantti",
     "legal_name": "",
     "legal_form": "",
@@ -39550,7 +39622,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-remindcenter-534",
+    "id": "chisinau-psychology-remindcenter-535",
     "name": "Remindcenter",
     "legal_name": "",
     "legal_form": "",
@@ -39626,7 +39698,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--535",
+    "id": "chisinau-psychology--536",
     "name": "Центр психологической помощи и нейрокоррекции Натальи Карачинцевой",
     "legal_name": "",
     "legal_form": "",
@@ -39702,7 +39774,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--536",
+    "id": "chisinau-psychology--537",
     "name": "Кодирование от алкоголизма, курения",
     "legal_name": "",
     "legal_form": "",
@@ -39778,7 +39850,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--537",
+    "id": "chisinau-psychology--538",
     "name": "НейроЛайф",
     "legal_name": "",
     "legal_form": "",
@@ -39854,7 +39926,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--538",
+    "id": "chisinau-psychology--539",
     "name": "Хочу Знать Всё",
     "legal_name": "",
     "legal_form": "",
@@ -39930,7 +40002,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--539",
+    "id": "chisinau-psychology--540",
     "name": "Инструменты для нутрициолога",
     "legal_name": "",
     "legal_form": "",
@@ -40006,7 +40078,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--540",
+    "id": "chisinau-psychology--541",
     "name": "Квантовые технологии биорезонанса",
     "legal_name": "",
     "legal_form": "",
@@ -40082,7 +40154,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--541",
+    "id": "chisinau-psychology--542",
     "name": "Спектр Медицина",
     "legal_name": "",
     "legal_form": "",
@@ -40158,7 +40230,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--542",
+    "id": "chisinau-psychology--543",
     "name": "Дентекс Медицина",
     "legal_name": "",
     "legal_form": "",
@@ -40234,7 +40306,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--543",
+    "id": "chisinau-psychology--544",
     "name": "Центр Традиционной Восточной Медицины Ван Шу Хэ",
     "legal_name": "",
     "legal_form": "",
@@ -40310,7 +40382,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--544",
+    "id": "chisinau-psychology--545",
     "name": "Мир долголетия",
     "legal_name": "",
     "legal_form": "",
@@ -40386,7 +40458,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--545",
+    "id": "chisinau-psychology--546",
     "name": "Столичная диагностика",
     "legal_name": "",
     "legal_form": "",
@@ -40462,7 +40534,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-invitro-546",
+    "id": "chisinau-psychology-invitro-547",
     "name": "Invitro",
     "legal_name": "",
     "legal_form": "",
@@ -40538,7 +40610,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psiholog-ego-pentru-copii-si-547",
+    "id": "chisinau-psychology-psiholog-ego-pentru-copii-si-548",
     "name": "Psiholog Ego pentru copii si",
     "legal_name": "",
     "legal_form": "",
@@ -40614,7 +40686,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psiholog-stefan-popov-548",
+    "id": "chisinau-psychology-psiholog-stefan-popov-549",
     "name": "Psiholog Ştefan Popov",
     "legal_name": "",
     "legal_form": "",
@@ -40686,7 +40758,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psychologyprof-549",
+    "id": "chisinau-psychology-psychologyprof-550",
     "name": "PsychologyProf",
     "legal_name": "",
     "legal_form": "",
@@ -40758,7 +40830,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psiholog-zinaida-gribincea-550",
+    "id": "chisinau-psychology-psiholog-zinaida-gribincea-551",
     "name": "Psiholog Zinaida Gribincea",
     "legal_name": "",
     "legal_form": "",
@@ -40830,7 +40902,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psihologul-niculaes-ana-551",
+    "id": "chisinau-psychology-psihologul-niculaes-ana-552",
     "name": "Psihologul Niculaes Ana",
     "legal_name": "",
     "legal_form": "",
@@ -40902,7 +40974,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psihoterapeut-de-cuplu-552",
+    "id": "chisinau-psychology-psihoterapeut-de-cuplu-553",
     "name": "Psihoterapeut de cuplu",
     "legal_name": "",
     "legal_form": "",
@@ -40974,7 +41046,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psiholog-doina-chiosa-553",
+    "id": "chisinau-psychology-psiholog-doina-chiosa-554",
     "name": "Psiholog Doina Chiosa",
     "legal_name": "",
     "legal_form": "",
@@ -41046,7 +41118,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-cezara-dilevschi-psiholog-psihoterapeut-554",
+    "id": "chisinau-psychology-cezara-dilevschi-psiholog-psihoterapeut-555",
     "name": "Cezara Dilevschi Psiholog- Psihoterapeut",
     "legal_name": "",
     "legal_form": "",
@@ -41118,7 +41190,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psiholog-online-andronic-elena-555",
+    "id": "chisinau-psychology-psiholog-online-andronic-elena-556",
     "name": "Psiholog Online, Andronic Elena",
     "legal_name": "",
     "legal_form": "",
@@ -41190,7 +41262,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psiholog-mihalache-veronica-556",
+    "id": "chisinau-psychology-psiholog-mihalache-veronica-557",
     "name": "Psiholog Mihalache Veronica",
     "legal_name": "",
     "legal_form": "",
@@ -41262,7 +41334,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-daniela-hariton-psiholog-clinician-psihoterapeut-coach-557",
+    "id": "chisinau-psychology-daniela-hariton-psiholog-clinician-psihoterapeut-coach-558",
     "name": "Daniela Hariton psiholog clinician - psihoterapeut - coach",
     "legal_name": "",
     "legal_form": "",
@@ -41334,7 +41406,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-irina-parvan-cabinet-individual-de-psihologie-si-psihoterapie-558",
+    "id": "chisinau-psychology-irina-parvan-cabinet-individual-de-psihologie-si-psihoterapie-559",
     "name": "Irina Parvan - Cabinet Individual de Psihologie si Psihoterapie",
     "legal_name": "",
     "legal_form": "",
@@ -41406,7 +41478,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-25-best-psychologist-near-centru-chisinau-moldova-559",
+    "id": "chisinau-psychology-25-best-psychologist-near-centru-chisinau-moldova-560",
     "name": "25 Best Psychologist Near Centru, Chişinău, Moldova",
     "legal_name": "",
     "legal_form": "",
@@ -41478,7 +41550,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-facultatea-de-psihologie-si-asistenta-sociala-usem-560",
+    "id": "chisinau-psychology-facultatea-de-psihologie-si-asistenta-sociala-usem-561",
     "name": "Facultatea de Psihologie și Asistență Socială, USEM",
     "legal_name": "",
     "legal_form": "",
@@ -41550,7 +41622,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-logopedie-moldova-561",
+    "id": "chisinau-psychology-logopedie-moldova-562",
     "name": "Logopedie Moldova",
     "legal_name": "",
     "legal_form": "",
@@ -41622,7 +41694,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psihologie-suceava-562",
+    "id": "chisinau-psychology-psihologie-suceava-563",
     "name": "Psihologie Suceava",
     "legal_name": "",
     "legal_form": "",
@@ -41694,7 +41766,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-niculina-gheorghita-563",
+    "id": "chisinau-psychology-niculina-gheorghita-564",
     "name": "Niculina Gheorghita",
     "legal_name": "",
     "legal_form": "",
@@ -41766,7 +41838,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psihodinamski-psihoterapeut-564",
+    "id": "chisinau-psychology-psihodinamski-psihoterapeut-565",
     "name": "Psihodinamski psihoterapeut",
     "legal_name": "",
     "legal_form": "",
@@ -41838,7 +41910,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--565",
+    "id": "chisinau-psychology--566",
     "name": "Психолог Елена Шевчук",
     "legal_name": "",
     "legal_form": "",
@@ -41910,7 +41982,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psiholoski-kutak-566",
+    "id": "chisinau-psychology-psiholoski-kutak-567",
     "name": "Psihološki kutak",
     "legal_name": "",
     "legal_form": "",
@@ -41982,7 +42054,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psiholog-jovana-stojkovic-567",
+    "id": "chisinau-psychology-psiholog-jovana-stojkovic-568",
     "name": "Psiholog Jovana Stojković",
     "legal_name": "",
     "legal_form": "",
@@ -42054,7 +42126,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-danijela-ostojic-568",
+    "id": "chisinau-psychology-danijela-ostojic-569",
     "name": "Danijela Ostojić",
     "legal_name": "",
     "legal_form": "",
@@ -42126,7 +42198,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--569",
+    "id": "chisinau-psychology--570",
     "name": "Академия жизни Оксаны Мыханюк",
     "legal_name": "",
     "legal_form": "",
@@ -42202,7 +42274,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology--570",
+    "id": "chisinau-psychology--571",
     "name": "Елена Осадчая магистр психологии",
     "legal_name": "",
     "legal_form": "",
@@ -42278,7 +42350,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-cabinet-psihologic-psychology-office-571",
+    "id": "chisinau-psychology-cabinet-psihologic-psychology-office-572",
     "name": "Cabinet psihologic | Psychology office",
     "legal_name": "",
     "legal_form": "",
@@ -42354,7 +42426,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-sanatoriul-constructorul-572",
+    "id": "chisinau-psychology-sanatoriul-constructorul-573",
     "name": "Sanatoriul ”Constructorul”",
     "legal_name": "",
     "legal_form": "",
@@ -42430,7 +42502,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psiholog-piti-irina-573",
+    "id": "chisinau-psychology-psiholog-piti-irina-574",
     "name": "Psiholog Piti Irina",
     "legal_name": "",
     "legal_form": "",
@@ -42506,7 +42578,7 @@
     "notes": "Checkpoint 1: public-source verification recorded; repeat website check before outreach."
   },
   {
-    "id": "chisinau-psychology-psiholog-si-psihoterapeut-integrativ-olga-fedius-574",
+    "id": "chisinau-psychology-psiholog-si-psihoterapeut-integrativ-olga-fedius-575",
     "name": "Psiholog și Psihoterapeut Integrativ Olga Fedius",
     "legal_name": "",
     "legal_form": "",

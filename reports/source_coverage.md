@@ -4,17 +4,17 @@ Checkpoint date: 2026-07-15
 
 ## Working-set coverage
 
-- Verified leads in this checkpoint: 574
-- Leads with 2+ source URLs: 574
+- Verified leads in this checkpoint: 575
+- Leads with 2+ source URLs: 575
 - Leads with map/directory URL: 89
-- Leads with social profile: 355
+- Leads with social profile: 356
 - Rejected / excluded records: 62
 - Uncertain records held out: 13
 
 ## Source host counts
 
-- instagram.com: 254
-- google.com: 233
+- instagram.com: 255
+- google.com: 234
 - g0.md: 216
 - facebook.com: 159
 - apnt.app: 122

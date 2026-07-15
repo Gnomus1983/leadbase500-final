@@ -2,22 +2,22 @@
 
 Checkpoint date: 2026-07-15
 
-- Verified leads: 574
+- Verified leads: 575
 - Target: 500
 - With phone: 476
 - With exact address: 574
-- With Instagram: 225
+- With Instagram: 226
 - With Facebook: 194
 - Confirmed legal name: 8
 - Confirmed IDNO: 8
 - High confidence: 476
-- Medium confidence: 98
+- Medium confidence: 99
 - Rejected with website found: 59
 - Uncertain / held for re-check: 13
 
 ## Distribution By Niche
 
-- Маникюрные студии (nails): 49
+- Маникюрные студии (nails): 50
 - Салоны красоты (beauty): 116
 - Барбершопы (barber): 13
 - Кофейни (coffee): 163
