@@ -1,0 +1,830 @@
+[
+  {
+    "id": "moldova-nails-olga-osipova-576",
+    "name": "Olga Osipova — nails.by.olga.o",
+    "legal_name": "",
+    "legal_form": "",
+    "idno": "",
+    "legal_identity_status": "not_publicly_confirmed",
+    "niche": "nails",
+    "niche_label": "Маникюрные студии и мастера",
+    "owner_or_manager": "Ольга Владимировна",
+    "locality": "Moldova",
+    "sector": "",
+    "address": "Молдова (точный адрес не указан публично)",
+    "latitude": null,
+    "longitude": null,
+    "phone": [
+      "+37379350869"
+    ],
+    "whatsapp": "https://wa.me/37379350869",
+    "email": "",
+    "instagram": "https://www.instagram.com/nails.by.olga.o/",
+    "facebook": "",
+    "tiktok": "",
+    "telegram": "",
+    "maps_url": "",
+    "directory_urls": [],
+    "source_urls": [
+      "https://www.instagram.com/nails.by.olga.o/",
+      "https://wa.me/37379350869"
+    ],
+    "outreach_status": "новый",
+    "demo_site_url": "",
+    "website_status": "candidate_unverified",
+    "website_found_url": "",
+    "website_checks": [
+      {
+        "method": "brand_exact_search",
+        "query": "\"Olga Osipova — nails.by.olga.o\" website OR site oficial Moldova",
+        "result": "no_owned_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "brand_md_domain_search",
+        "query": "\"Olga Osipova — nails.by.olga.o\" site:.md",
+        "result": "no_owned_md_domain_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "builder_search",
+        "query": "\"Olga Osipova — nails.by.olga.o\" site:wixsite.com OR site:tilda.ws OR site:sites.google.com",
+        "result": "no_builder_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "bio_link_check",
+        "query": "https://www.instagram.com/nails.by.olga.o/",
+        "result": "bio_not_fully_observable_or_no_owned_site_link_confirmed"
+      },
+      {
+        "method": "phone_exact_search",
+        "query": "\"+37379350869\"",
+        "result": "no_owned_site_confirmed_from_phone_checkpoint"
+      },
+      {
+        "method": "probable_domain_check",
+        "query": "olgaosipovanailsbyolgao.md / .com / .ro",
+        "result": "no_probable_owned_domain_confirmed_in_checkpoint"
+      }
+    ],
+    "verified_at": "2026-07-16",
+    "activity_evidence": "Скриншот пользователя от 2026-07-16: 741 публикация, 1 445 подписчиков и активные Stories; в bio опубликован WhatsApp.",
+    "confidence": "medium",
+    "purchase_score": 8,
+    "estimated_budget_mdl": "5 000–12 000",
+    "recommended_approach": "Показать персональный сайт мастера с портфолио маникюра, педикюра и наращивания, прайсом и кнопкой записи в WhatsApp.",
+    "notes": "Добавлено по предоставленному пользователем скриншоту. Второй независимый источник и точный адрес пока не подтверждены."
+  },
+  {
+    "id": "chisinau-nails-ana-nails-577",
+    "name": "Ana Nails — nails_ana_md",
+    "legal_name": "",
+    "legal_form": "",
+    "idno": "",
+    "legal_identity_status": "not_publicly_confirmed",
+    "niche": "nails",
+    "niche_label": "Маникюрные студии и мастера",
+    "owner_or_manager": "",
+    "locality": "Chișinău",
+    "sector": "Botanica",
+    "address": "Botanica, str. Cuza Vodă, Chișinău (работает на дому)",
+    "latitude": null,
+    "longitude": null,
+    "phone": [
+      "+37369306507"
+    ],
+    "whatsapp": "",
+    "email": "",
+    "instagram": "https://www.instagram.com/nails_ana_md/",
+    "facebook": "",
+    "tiktok": "",
+    "telegram": "",
+    "maps_url": "",
+    "directory_urls": [
+      "https://999.md/ro/89786975"
+    ],
+    "source_urls": [
+      "https://999.md/ro/89786975",
+      "https://www.instagram.com/nails_ana_md/"
+    ],
+    "outreach_status": "новый",
+    "demo_site_url": "",
+    "website_status": "candidate_unverified",
+    "website_found_url": "",
+    "website_checks": [
+      {
+        "method": "brand_exact_search",
+        "query": "\"Ana Nails — nails_ana_md\" website OR site oficial Moldova",
+        "result": "no_owned_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "brand_md_domain_search",
+        "query": "\"Ana Nails — nails_ana_md\" site:.md",
+        "result": "no_owned_md_domain_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "builder_search",
+        "query": "\"Ana Nails — nails_ana_md\" site:wixsite.com OR site:tilda.ws OR site:sites.google.com",
+        "result": "no_builder_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "bio_link_check",
+        "query": "https://www.instagram.com/nails_ana_md/",
+        "result": "bio_not_fully_observable_or_no_owned_site_link_confirmed"
+      },
+      {
+        "method": "phone_exact_search",
+        "query": "\"+37369306507\"",
+        "result": "no_owned_site_confirmed_from_phone_checkpoint"
+      },
+      {
+        "method": "probable_domain_check",
+        "query": "ananailsnailsanamd.md / .com / .ro",
+        "result": "no_probable_owned_domain_confirmed_in_checkpoint"
+      }
+    ],
+    "verified_at": "2026-07-16",
+    "activity_evidence": "Объявление 999 обновлено 2026-06-18 и содержит актуальный номер, район и Instagram.",
+    "confidence": "medium",
+    "purchase_score": 8,
+    "estimated_budget_mdl": "5 000–12 000",
+    "recommended_approach": "Предложить одностраничник домашнего мастера: примеры работ, безопасность, цены, маршрут и запись в Instagram/телефон.",
+    "notes": "Instagram при контрольном открытии без авторизации показал недоступный профиль; повторно проверить handle и bio перед обращением."
+  },
+  {
+    "id": "chisinau-nails-nailacademy-dina-bruma-578",
+    "name": "NailAcademy Dina Bruma",
+    "legal_name": "",
+    "legal_form": "",
+    "idno": "",
+    "legal_identity_status": "not_publicly_confirmed",
+    "niche": "nails",
+    "niche_label": "Маникюрные студии и мастера",
+    "owner_or_manager": "Dina Bruma",
+    "locality": "Chișinău",
+    "sector": "Centru",
+    "address": "Centru, magazin UNIC, Chișinău",
+    "latitude": null,
+    "longitude": null,
+    "phone": [
+      "+37360093092"
+    ],
+    "whatsapp": "",
+    "email": "",
+    "instagram": "",
+    "facebook": "https://www.facebook.com/712474592447622",
+    "tiktok": "",
+    "telegram": "",
+    "maps_url": "",
+    "directory_urls": [
+      "https://www.beautynailhairsalons.com/MD/Chisinau/712474592447622/NailAcademy-Dina-Bruma"
+    ],
+    "source_urls": [
+      "https://www.beautynailhairsalons.com/MD/Chisinau/712474592447622/NailAcademy-Dina-Bruma",
+      "https://www.facebook.com/712474592447622"
+    ],
+    "outreach_status": "новый",
+    "demo_site_url": "",
+    "website_status": "candidate_unverified",
+    "website_found_url": "",
+    "website_checks": [
+      {
+        "method": "brand_exact_search",
+        "query": "\"NailAcademy Dina Bruma\" website OR site oficial Moldova",
+        "result": "no_owned_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "brand_md_domain_search",
+        "query": "\"NailAcademy Dina Bruma\" site:.md",
+        "result": "no_owned_md_domain_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "builder_search",
+        "query": "\"NailAcademy Dina Bruma\" site:wixsite.com OR site:tilda.ws OR site:sites.google.com",
+        "result": "no_builder_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "bio_link_check",
+        "query": "https://www.facebook.com/712474592447622",
+        "result": "bio_not_fully_observable_or_no_owned_site_link_confirmed"
+      },
+      {
+        "method": "phone_exact_search",
+        "query": "\"+37360093092\"",
+        "result": "no_owned_site_confirmed_from_phone_checkpoint"
+      },
+      {
+        "method": "probable_domain_check",
+        "query": "nailacademydinabruma.md / .com / .ro",
+        "result": "no_probable_owned_domain_confirmed_in_checkpoint"
+      }
+    ],
+    "verified_at": "2026-07-16",
+    "activity_evidence": "Публичный каталог показывает публикации до 2026-05-03, телефон и расположение в центре.",
+    "confidence": "medium",
+    "purchase_score": 9,
+    "estimated_budget_mdl": "5 000–12 000",
+    "recommended_approach": "Предложить сайт студии и академии: услуги, обучение, работы учеников, расписание курсов и запись.",
+    "notes": "В каталоге как Website указан Facebook; прямой bio-редирект нужно повторно проверить в авторизованном браузере."
+  },
+  {
+    "id": "chisinau-lashes-lumy-lashmaker-580",
+    "name": "Lumy_Lashmaker.md",
+    "legal_name": "",
+    "legal_form": "",
+    "idno": "",
+    "legal_identity_status": "not_publicly_confirmed",
+    "niche": "lashes",
+    "niche_label": "Наращивание ресниц и лэшмейкеры",
+    "owner_or_manager": "",
+    "locality": "Chișinău",
+    "sector": "Botanica",
+    "address": "Strada Grădina Botanică, Chișinău",
+    "latitude": null,
+    "longitude": null,
+    "phone": [
+      "+37379311422"
+    ],
+    "whatsapp": "",
+    "email": "",
+    "instagram": "",
+    "facebook": "https://www.facebook.com/105885957800513",
+    "tiktok": "",
+    "telegram": "",
+    "maps_url": "",
+    "directory_urls": [
+      "https://www.beautynailhairsalons.com/MD/Chisinau/105885957800513/Lumy_Lashmaker.md"
+    ],
+    "source_urls": [
+      "https://www.beautynailhairsalons.com/MD/Chisinau/105885957800513/Lumy_Lashmaker.md",
+      "https://www.facebook.com/105885957800513"
+    ],
+    "outreach_status": "новый",
+    "demo_site_url": "",
+    "website_status": "candidate_unverified",
+    "website_found_url": "",
+    "website_checks": [
+      {
+        "method": "brand_exact_search",
+        "query": "\"Lumy_Lashmaker.md\" website OR site oficial Moldova",
+        "result": "no_owned_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "brand_md_domain_search",
+        "query": "\"Lumy_Lashmaker.md\" site:.md",
+        "result": "no_owned_md_domain_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "builder_search",
+        "query": "\"Lumy_Lashmaker.md\" site:wixsite.com OR site:tilda.ws OR site:sites.google.com",
+        "result": "no_builder_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "bio_link_check",
+        "query": "https://www.facebook.com/105885957800513",
+        "result": "bio_not_fully_observable_or_no_owned_site_link_confirmed"
+      },
+      {
+        "method": "phone_exact_search",
+        "query": "\"+37379311422\"",
+        "result": "no_owned_site_confirmed_from_phone_checkpoint"
+      },
+      {
+        "method": "probable_domain_check",
+        "query": "lumylashmakermd.md / .com / .ro",
+        "result": "no_probable_owned_domain_confirmed_in_checkpoint"
+      }
+    ],
+    "verified_at": "2026-07-16",
+    "activity_evidence": "Каталог показывает публикации до 2026-06-26, рабочий телефон и адрес.",
+    "confidence": "medium",
+    "purchase_score": 8,
+    "estimated_budget_mdl": "5 000–12 000",
+    "recommended_approach": "Предложить визуальный сайт лэшмейкера: эффекты ресниц, до/после, прайс, уход и онлайн-запись.",
+    "notes": "Каталог ссылается на Facebook; отсутствие дополнительных bio-ссылок требует повторной проверки."
+  },
+  {
+    "id": "chisinau-massage-luxehand-581",
+    "name": "Luxehand Massage",
+    "legal_name": "",
+    "legal_form": "",
+    "idno": "",
+    "legal_identity_status": "not_publicly_confirmed",
+    "niche": "massage",
+    "niche_label": "Массажисты и массажные кабинеты",
+    "owner_or_manager": "",
+    "locality": "Chișinău",
+    "sector": "",
+    "address": "Выезд по Chișinău",
+    "latitude": null,
+    "longitude": null,
+    "phone": [
+      "+37368888688"
+    ],
+    "whatsapp": "",
+    "email": "",
+    "instagram": "https://www.instagram.com/luxehand.md/",
+    "facebook": "",
+    "tiktok": "",
+    "telegram": "",
+    "maps_url": "",
+    "directory_urls": [
+      "https://999.md/ro/102215920"
+    ],
+    "source_urls": [
+      "https://999.md/ro/102215920",
+      "https://www.instagram.com/luxehand.md/"
+    ],
+    "outreach_status": "новый",
+    "demo_site_url": "",
+    "website_status": "candidate_unverified",
+    "website_found_url": "",
+    "website_checks": [
+      {
+        "method": "brand_exact_search",
+        "query": "\"Luxehand Massage\" website OR site oficial Moldova",
+        "result": "no_owned_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "brand_md_domain_search",
+        "query": "\"Luxehand Massage\" site:.md",
+        "result": "no_owned_md_domain_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "builder_search",
+        "query": "\"Luxehand Massage\" site:wixsite.com OR site:tilda.ws OR site:sites.google.com",
+        "result": "no_builder_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "bio_link_check",
+        "query": "https://www.instagram.com/luxehand.md/",
+        "result": "bio_not_fully_observable_or_no_owned_site_link_confirmed"
+      },
+      {
+        "method": "phone_exact_search",
+        "query": "\"+37368888688\"",
+        "result": "no_owned_site_confirmed_from_phone_checkpoint"
+      },
+      {
+        "method": "probable_domain_check",
+        "query": "luxehandmassage.md / .com / .ro",
+        "result": "no_probable_owned_domain_confirmed_in_checkpoint"
+      }
+    ],
+    "verified_at": "2026-07-16",
+    "activity_evidence": "Объявление 999 обновлено 2026-06-18: выездной массаж по Chișinău, телефон и Instagram.",
+    "confidence": "medium",
+    "purchase_score": 8,
+    "estimated_budget_mdl": "5 000–12 000",
+    "recommended_approach": "Предложить премиальный мобильный лендинг: виды массажа, выезд, зоны обслуживания, цены и быстрая запись.",
+    "notes": "Instagram/bio нужно повторно открыть перед контактом; физического кабинета в источнике не подтверждено."
+  },
+  {
+    "id": "chisinau-massage-neva-spa-582",
+    "name": "Néva Spa",
+    "legal_name": "",
+    "legal_form": "",
+    "idno": "",
+    "legal_identity_status": "not_publicly_confirmed",
+    "niche": "massage",
+    "niche_label": "Массажисты и массажные кабинеты",
+    "owner_or_manager": "",
+    "locality": "Chișinău",
+    "sector": "Rîșcani",
+    "address": "Str. Socoleni 17/1, Chișinău",
+    "latitude": null,
+    "longitude": null,
+    "phone": [
+      "+37361102010"
+    ],
+    "whatsapp": "",
+    "email": "",
+    "instagram": "",
+    "facebook": "https://www.facebook.com/714563628398972",
+    "tiktok": "",
+    "telegram": "",
+    "maps_url": "",
+    "directory_urls": [
+      "https://www.beautynailhairsalons.com/MD/Chisinau/714563628398972/N%C3%A9va-Spa"
+    ],
+    "source_urls": [
+      "https://www.beautynailhairsalons.com/MD/Chisinau/714563628398972/N%C3%A9va-Spa",
+      "https://www.facebook.com/714563628398972"
+    ],
+    "outreach_status": "новый",
+    "demo_site_url": "",
+    "website_status": "candidate_unverified",
+    "website_found_url": "",
+    "website_checks": [
+      {
+        "method": "brand_exact_search",
+        "query": "\"Néva Spa\" website OR site oficial Moldova",
+        "result": "no_owned_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "brand_md_domain_search",
+        "query": "\"Néva Spa\" site:.md",
+        "result": "no_owned_md_domain_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "builder_search",
+        "query": "\"Néva Spa\" site:wixsite.com OR site:tilda.ws OR site:sites.google.com",
+        "result": "no_builder_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "bio_link_check",
+        "query": "https://www.facebook.com/714563628398972",
+        "result": "bio_not_fully_observable_or_no_owned_site_link_confirmed"
+      },
+      {
+        "method": "phone_exact_search",
+        "query": "\"+37361102010\"",
+        "result": "no_owned_site_confirmed_from_phone_checkpoint"
+      },
+      {
+        "method": "probable_domain_check",
+        "query": "nvaspa.md / .com / .ro",
+        "result": "no_probable_owned_domain_confirmed_in_checkpoint"
+      }
+    ],
+    "verified_at": "2026-07-16",
+    "activity_evidence": "Каталог содержит публикации за март 2026 года, телефон и адрес Socoleni 17/1.",
+    "confidence": "medium",
+    "purchase_score": 9,
+    "estimated_budget_mdl": "5 000–12 000",
+    "recommended_approach": "Показать атмосферный сайт spa: программы массажа, кабинеты, подарочные сертификаты, отзывы и запись.",
+    "notes": "В каталоге указан Facebook; собственный сайт не подтверждён, но bio-ссылки нужно перепроверить."
+  },
+  {
+    "id": "chisinau-nails-anna-deshanel-583",
+    "name": "Anna Deshanel — annadeshanel",
+    "legal_name": "",
+    "legal_form": "",
+    "idno": "",
+    "legal_identity_status": "not_publicly_confirmed",
+    "niche": "nails",
+    "niche_label": "Маникюрные студии и мастера",
+    "owner_or_manager": "",
+    "locality": "Chișinău",
+    "sector": "Buiucani",
+    "address": "Str. Ion Neculce 3, Chișinău",
+    "latitude": null,
+    "longitude": null,
+    "phone": [],
+    "whatsapp": "",
+    "email": "",
+    "instagram": "https://www.instagram.com/annadeshanel/",
+    "facebook": "",
+    "tiktok": "",
+    "telegram": "",
+    "maps_url": "",
+    "directory_urls": [
+      "https://999.md/ru/48800217"
+    ],
+    "source_urls": [
+      "https://999.md/ru/48800217",
+      "https://www.instagram.com/annadeshanel/"
+    ],
+    "outreach_status": "новый",
+    "demo_site_url": "",
+    "website_status": "candidate_unverified",
+    "website_found_url": "",
+    "website_checks": [
+      {
+        "method": "brand_exact_search",
+        "query": "\"Anna Deshanel — annadeshanel\" website OR site oficial Moldova",
+        "result": "no_owned_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "brand_md_domain_search",
+        "query": "\"Anna Deshanel — annadeshanel\" site:.md",
+        "result": "no_owned_md_domain_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "builder_search",
+        "query": "\"Anna Deshanel — annadeshanel\" site:wixsite.com OR site:tilda.ws OR site:sites.google.com",
+        "result": "no_builder_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "bio_link_check",
+        "query": "https://www.instagram.com/annadeshanel/",
+        "result": "bio_not_fully_observable_or_no_owned_site_link_confirmed"
+      },
+      {
+        "method": "phone_exact_search",
+        "query": "Anna Deshanel — annadeshanel phone",
+        "result": "no_owned_site_confirmed_from_phone_checkpoint"
+      },
+      {
+        "method": "probable_domain_check",
+        "query": "annadeshanelannadeshanel.md / .com / .ro",
+        "result": "no_probable_owned_domain_confirmed_in_checkpoint"
+      }
+    ],
+    "verified_at": "2026-07-16",
+    "activity_evidence": "Объявление 999 отображалось как обновлённое 2026-07-14 и указывает адрес и Instagram.",
+    "confidence": "medium",
+    "purchase_score": 6,
+    "estimated_budget_mdl": "5 000–12 000",
+    "recommended_approach": "Написать в Instagram с компактным демо-портфолио, прайсом и понятной записью.",
+    "notes": "Полный телефон не опубликован в доступной выдаче; контакт возможен через Instagram после проверки bio."
+  },
+  {
+    "id": "chisinau-lashes-riri-lashh-584",
+    "name": "riri.lashh",
+    "legal_name": "",
+    "legal_form": "",
+    "idno": "",
+    "legal_identity_status": "not_publicly_confirmed",
+    "niche": "lashes",
+    "niche_label": "Наращивание ресниц и лэшмейкеры",
+    "owner_or_manager": "",
+    "locality": "Chișinău",
+    "sector": "",
+    "address": "Chișinău (точный адрес уточнить)",
+    "latitude": null,
+    "longitude": null,
+    "phone": [],
+    "whatsapp": "",
+    "email": "",
+    "instagram": "https://www.instagram.com/riri.lashh/",
+    "facebook": "",
+    "tiktok": "",
+    "telegram": "https://t.me/Iriks_8",
+    "maps_url": "",
+    "directory_urls": [
+      "https://999.md/ru/102556057"
+    ],
+    "source_urls": [
+      "https://999.md/ru/102556057",
+      "https://www.instagram.com/riri.lashh/",
+      "https://t.me/Iriks_8"
+    ],
+    "outreach_status": "новый",
+    "demo_site_url": "",
+    "website_status": "candidate_unverified",
+    "website_found_url": "",
+    "website_checks": [
+      {
+        "method": "brand_exact_search",
+        "query": "\"riri.lashh\" website OR site oficial Moldova",
+        "result": "no_owned_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "brand_md_domain_search",
+        "query": "\"riri.lashh\" site:.md",
+        "result": "no_owned_md_domain_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "builder_search",
+        "query": "\"riri.lashh\" site:wixsite.com OR site:tilda.ws OR site:sites.google.com",
+        "result": "no_builder_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "bio_link_check",
+        "query": "https://www.instagram.com/riri.lashh/",
+        "result": "bio_not_fully_observable_or_no_owned_site_link_confirmed"
+      },
+      {
+        "method": "phone_exact_search",
+        "query": "riri.lashh phone",
+        "result": "no_owned_site_confirmed_from_phone_checkpoint"
+      },
+      {
+        "method": "probable_domain_check",
+        "query": "ririlashh.md / .com / .ro",
+        "result": "no_probable_owned_domain_confirmed_in_checkpoint"
+      }
+    ],
+    "verified_at": "2026-07-16",
+    "activity_evidence": "Объявление 999 публикует Instagram и Telegram мастера по наращиванию ресниц.",
+    "confidence": "medium",
+    "purchase_score": 6,
+    "estimated_budget_mdl": "5 000–12 000",
+    "recommended_approach": "Предложить мини-сайт с выбором эффекта и объёма, портфолио, правилами ухода и записью в Telegram.",
+    "notes": "Нет датируемого второго сигнала активности и полного адреса; обязательна повторная проверка."
+  },
+  {
+    "id": "chisinau-lashes-steleasbeauty-585",
+    "name": "Stelea’s Beauty",
+    "legal_name": "",
+    "legal_form": "",
+    "idno": "",
+    "legal_identity_status": "not_publicly_confirmed",
+    "niche": "lashes",
+    "niche_label": "Наращивание ресниц и лэшмейкеры",
+    "owner_or_manager": "",
+    "locality": "Chișinău",
+    "sector": "",
+    "address": "Chișinău (точный адрес уточнить)",
+    "latitude": null,
+    "longitude": null,
+    "phone": [],
+    "whatsapp": "",
+    "email": "",
+    "instagram": "https://www.instagram.com/steleasbeauty/",
+    "facebook": "https://www.facebook.com/svetlanamuamd",
+    "tiktok": "",
+    "telegram": "",
+    "maps_url": "",
+    "directory_urls": [
+      "https://999.md/ro/80481006"
+    ],
+    "source_urls": [
+      "https://999.md/ro/80481006",
+      "https://www.instagram.com/steleasbeauty/",
+      "https://www.facebook.com/svetlanamuamd"
+    ],
+    "outreach_status": "новый",
+    "demo_site_url": "",
+    "website_status": "candidate_unverified",
+    "website_found_url": "",
+    "website_checks": [
+      {
+        "method": "brand_exact_search",
+        "query": "\"Stelea’s Beauty\" website OR site oficial Moldova",
+        "result": "no_owned_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "brand_md_domain_search",
+        "query": "\"Stelea’s Beauty\" site:.md",
+        "result": "no_owned_md_domain_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "builder_search",
+        "query": "\"Stelea’s Beauty\" site:wixsite.com OR site:tilda.ws OR site:sites.google.com",
+        "result": "no_builder_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "bio_link_check",
+        "query": "https://www.instagram.com/steleasbeauty/",
+        "result": "bio_not_fully_observable_or_no_owned_site_link_confirmed"
+      },
+      {
+        "method": "phone_exact_search",
+        "query": "Stelea’s Beauty phone",
+        "result": "no_owned_site_confirmed_from_phone_checkpoint"
+      },
+      {
+        "method": "probable_domain_check",
+        "query": "steleasbeauty.md / .com / .ro",
+        "result": "no_probable_owned_domain_confirmed_in_checkpoint"
+      }
+    ],
+    "verified_at": "2026-07-16",
+    "activity_evidence": "Поисковая карточка 999 показывала обновление 2026-06-27 и ссылки на Instagram/Facebook.",
+    "confidence": "medium",
+    "purchase_score": 6,
+    "estimated_budget_mdl": "5 000–12 000",
+    "recommended_approach": "Предложить яркий сайт мастера: ресницы и beauty-услуги, до/после, прайс и запись.",
+    "notes": "Прямая карточка 999 и кеш выдачи показали разные данные; запись оставлена кандидатом до повторной сверки."
+  },
+  {
+    "id": "chisinau-hair-extensions-alungirea-parului-md-586",
+    "name": "Alungirea Parului MD",
+    "legal_name": "",
+    "legal_form": "",
+    "idno": "",
+    "legal_identity_status": "not_publicly_confirmed",
+    "niche": "hair_extensions",
+    "niche_label": "Наращивание и восстановление волос",
+    "owner_or_manager": "",
+    "locality": "Chișinău",
+    "sector": "Rîșcani",
+    "address": "Rîșcani, Chișinău (точный адрес уточнить)",
+    "latitude": null,
+    "longitude": null,
+    "phone": [],
+    "whatsapp": "",
+    "email": "",
+    "instagram": "https://www.instagram.com/alungirea_parului_md/",
+    "facebook": "",
+    "tiktok": "",
+    "telegram": "",
+    "maps_url": "",
+    "directory_urls": [
+      "https://999.md/ru/86423748"
+    ],
+    "source_urls": [
+      "https://999.md/ru/86423748",
+      "https://www.instagram.com/alungirea_parului_md/"
+    ],
+    "outreach_status": "новый",
+    "demo_site_url": "",
+    "website_status": "candidate_unverified",
+    "website_found_url": "",
+    "website_checks": [
+      {
+        "method": "brand_exact_search",
+        "query": "\"Alungirea Parului MD\" website OR site oficial Moldova",
+        "result": "no_owned_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "brand_md_domain_search",
+        "query": "\"Alungirea Parului MD\" site:.md",
+        "result": "no_owned_md_domain_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "builder_search",
+        "query": "\"Alungirea Parului MD\" site:wixsite.com OR site:tilda.ws OR site:sites.google.com",
+        "result": "no_builder_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "bio_link_check",
+        "query": "https://www.instagram.com/alungirea_parului_md/",
+        "result": "bio_not_fully_observable_or_no_owned_site_link_confirmed"
+      },
+      {
+        "method": "phone_exact_search",
+        "query": "Alungirea Parului MD phone",
+        "result": "no_owned_site_confirmed_from_phone_checkpoint"
+      },
+      {
+        "method": "probable_domain_check",
+        "query": "alungireaparuluimd.md / .com / .ro",
+        "result": "no_probable_owned_domain_confirmed_in_checkpoint"
+      }
+    ],
+    "verified_at": "2026-07-16",
+    "activity_evidence": "Карточка 999 отображалась как обновлённая 2026-06-30 и указывает профиль мастера в Instagram.",
+    "confidence": "medium",
+    "purchase_score": 7,
+    "estimated_budget_mdl": "5 000–12 000",
+    "recommended_approach": "Предложить сайт с методами наращивания, портфолио до/после, расчётом стоимости, уходом и заявкой.",
+    "notes": "Полный телефон и точный адрес не видны в доступной карточке; перепроверить Instagram и bio."
+  },
+  {
+    "id": "chisinau-massage-fenix-studio-587",
+    "name": "Fenix Studio Massage",
+    "legal_name": "",
+    "legal_form": "",
+    "idno": "",
+    "legal_identity_status": "not_publicly_confirmed",
+    "niche": "massage",
+    "niche_label": "Массажисты и массажные кабинеты",
+    "owner_or_manager": "",
+    "locality": "Chișinău",
+    "sector": "Centru/Botanica",
+    "address": "Chișinău — адрес расходится в источниках: Anestiade 3 / Zelinski 26/1",
+    "latitude": null,
+    "longitude": null,
+    "phone": [
+      "+37360063132"
+    ],
+    "whatsapp": "",
+    "email": "",
+    "instagram": "",
+    "facebook": "",
+    "tiktok": "",
+    "telegram": "",
+    "maps_url": "https://yandex.com/maps/org/fenix_studio_massage/92622619037/",
+    "directory_urls": [
+      "https://around.md/en/place/fenix-studio-massage"
+    ],
+    "source_urls": [
+      "https://yandex.com/maps/org/fenix_studio_massage/92622619037/",
+      "https://around.md/en/place/fenix-studio-massage"
+    ],
+    "outreach_status": "новый",
+    "demo_site_url": "",
+    "website_status": "candidate_unverified",
+    "website_found_url": "",
+    "website_checks": [
+      {
+        "method": "brand_exact_search",
+        "query": "\"Fenix Studio Massage\" website OR site oficial Moldova",
+        "result": "no_owned_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "brand_md_domain_search",
+        "query": "\"Fenix Studio Massage\" site:.md",
+        "result": "no_owned_md_domain_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "builder_search",
+        "query": "\"Fenix Studio Massage\" site:wixsite.com OR site:tilda.ws OR site:sites.google.com",
+        "result": "no_builder_site_confirmed_in_current_checkpoint"
+      },
+      {
+        "method": "bio_link_check",
+        "query": "Fenix Studio Massage social bio",
+        "result": "bio_not_fully_observable_or_no_owned_site_link_confirmed"
+      },
+      {
+        "method": "phone_exact_search",
+        "query": "\"+37360063132\"",
+        "result": "no_owned_site_confirmed_from_phone_checkpoint"
+      },
+      {
+        "method": "probable_domain_check",
+        "query": "fenixstudiomassage.md / .com / .ro",
+        "result": "no_probable_owned_domain_confirmed_in_checkpoint"
+      }
+    ],
+    "verified_at": "2026-07-16",
+    "activity_evidence": "Две публичные карточки подтверждают название и телефон, но показывают разные адреса.",
+    "confidence": "medium",
+    "purchase_score": 7,
+    "estimated_budget_mdl": "5 000–12 000",
+    "recommended_approach": "Позвонить и после уточнения адреса предложить сайт кабинета: услуги, специалисты, цены, карта и запись.",
+    "notes": "Адресный конфликт не позволяет считать лид полностью проверенным; сначала уточнить фактическую локацию."
+  }
+]

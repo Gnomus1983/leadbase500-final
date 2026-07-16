@@ -641,5 +641,212 @@
       "https://restaurantguru.com/Table-9-Lounge-and-Bar-Chisinau"
     ],
     "checked_at": "2026-07-15"
+  },
+  {
+    "id": "reject-iceberg-dent-20260716",
+    "name": "Iceberg Dent",
+    "niche": "dentistry",
+    "status": "website_found",
+    "reason": "Найден собственный сайт; телефон и адрес совпадают с карточкой лида.",
+    "website_url": "https://www.icebergdent.md/",
+    "source_urls": [
+      "https://www.icebergdent.md/"
+    ],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-beautylashes-20260716",
+    "name": "BeautyLashes",
+    "niche": "lashes",
+    "status": "website_found",
+    "reason": "Найден собственный сайт с совпадающими телефоном, адресом и услугами.",
+    "website_url": "https://beauty-lashes.md/",
+    "source_urls": [
+      "https://beauty-lashes.md/"
+    ],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-lotus-spa-20260716",
+    "name": "Lotus Spa Health & Beauty Center",
+    "niche": "massage",
+    "status": "website_found",
+    "reason": "Есть официальная страница spa в сети Radisson; по строгой политике это официальное web-присутствие.",
+    "website_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-chisinau-leogrand/fitness-wellness",
+    "source_urls": [
+      "https://www.radissonhotels.com/en-us/hotels/radisson-blu-chisinau-leogrand/fitness-wellness"
+    ],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-rodica-cristov-20260716",
+    "name": "Nail Academy Rodica Cristov",
+    "niche": "nails",
+    "status": "website_found",
+    "reason": "Найдена брендированная веб-страница записи Stilio.",
+    "website_url": "https://stilio.md/ro/salons/nail-acaemy-rodica-cristov",
+    "source_urls": [
+      "https://stilio.md/ro/salons/nail-acaemy-rodica-cristov"
+    ],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-beauty-face-iordanova-20260716",
+    "name": "Beauty Face Studio Iordanova",
+    "niche": "beauty",
+    "status": "website_found",
+    "reason": "Найдена публичная брендированная страница онлайн-записи.",
+    "website_url": "https://apnt.app/beauty_face_studio",
+    "source_urls": [
+      "https://apnt.app/beauty_face_studio",
+      "https://mastersapp.ru/profile/beauty_face_studio"
+    ],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-two-hands-massage-20260716",
+    "name": "Two Hands Massage",
+    "niche": "massage",
+    "status": "website_found",
+    "reason": "Найден собственный сайт.",
+    "website_url": "https://masajtwohands.com/",
+    "source_urls": [
+      "https://masajtwohands.com/"
+    ],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-marilyn-monroe-20260716",
+    "name": "Marilyn Monroe Beauty Studio",
+    "niche": "beauty",
+    "status": "website_found",
+    "reason": "Найден собственный сайт.",
+    "website_url": "http://www.marilynmonroe.md/",
+    "source_urls": [
+      "http://www.marilynmonroe.md/"
+    ],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-look-me-academy-20260716",
+    "name": "LOOK ME Academy",
+    "niche": "lashes",
+    "status": "website_found",
+    "reason": "Найдена брендированная веб-страница онлайн-записи.",
+    "website_url": "https://stilio.md/ro/bk/DmLM88",
+    "source_urls": [
+      "https://stilio.md/ro/bk/DmLM88"
+    ],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-pink-lash-20260716",
+    "name": "Pink Lash",
+    "niche": "lashes",
+    "status": "website_found",
+    "reason": "Найден собственный сайт.",
+    "website_url": "https://pinklash.md/",
+    "source_urls": [
+      "https://pinklash.md/"
+    ],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-terralux-spa-20260716",
+    "name": "Terralux Spa",
+    "niche": "massage",
+    "status": "website_found",
+    "reason": "Найден собственный сайт.",
+    "website_url": "https://terralux.md/galerie/",
+    "source_urls": [
+      "https://terralux.md/galerie/"
+    ],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-ortoz-20260716",
+    "name": "ORTOZ",
+    "niche": "massage",
+    "status": "website_found",
+    "reason": "Найдена официальная Google Business Site страница.",
+    "website_url": "https://ortoz.business.site/",
+    "source_urls": [
+      "https://ortoz.business.site/"
+    ],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-art-masaj-20260716",
+    "name": "ART MASAJ",
+    "niche": "massage",
+    "status": "website_found",
+    "reason": "Найдена брендированная веб-страница онлайн-записи.",
+    "website_url": "https://n1318718.alteg.io/",
+    "source_urls": [
+      "https://n1318718.alteg.io/"
+    ],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-elena-massage-20260716",
+    "name": "Elena Massage",
+    "niche": "massage",
+    "status": "website_found",
+    "reason": "Найден собственный сайт.",
+    "website_url": "https://elena-masaj.md/",
+    "source_urls": [
+      "https://elena-masaj.md/"
+    ],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-olesea-lashes-20260716",
+    "name": "Olesea Lashes",
+    "niche": "lashes",
+    "status": "inactive",
+    "reason": "Не найден датируемый сигнал активности за последние 180 дней.",
+    "website_url": "",
+    "source_urls": [],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-wow-gene-20260716",
+    "name": "Wow Gene",
+    "niche": "lashes",
+    "status": "inactive",
+    "reason": "Последняя найденная активность 2025-12-11 — старше 180 дней на дату проверки.",
+    "website_url": "",
+    "source_urls": [],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-cristina-rusu-20260716",
+    "name": "Cristina Rusu",
+    "niche": "lashes",
+    "status": "inactive",
+    "reason": "Последняя найденная активность 2025-11-13.",
+    "website_url": "",
+    "source_urls": [],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-extensii-par-moldova-20260716",
+    "name": "Extensii de păr Moldova",
+    "niche": "hair_extensions",
+    "status": "inactive",
+    "reason": "Последняя найденная активность относится к 2024 году.",
+    "website_url": "",
+    "source_urls": [],
+    "checked_at": "2026-07-16"
+  },
+  {
+    "id": "reject-kolorist-hair-md-20260716",
+    "name": "Kolorist Hair MD",
+    "niche": "hair_extensions",
+    "status": "outside_scope",
+    "reason": "Связанные данные указывают на Одессу/Украину, а не на подтверждённую практику в Молдове.",
+    "website_url": "",
+    "source_urls": [],
+    "checked_at": "2026-07-16"
   }
 ]

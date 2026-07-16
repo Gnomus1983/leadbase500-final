@@ -102,5 +102,150 @@
     "source_urls": [],
     "checked_at": "2026-07-15",
     "notes": "Instagram source found, but exact address and phone were not confirmed in this checkpoint."
+  },
+  {
+    "id": "uncertain-moldova-nails-olga-osipova-576",
+    "name": "Olga Osipova — nails.by.olga.o",
+    "niche": "nails",
+    "status": "uncertain",
+    "reason": "insufficient_evidence",
+    "source_urls": [
+      "https://www.instagram.com/nails.by.olga.o/",
+      "https://wa.me/37379350869"
+    ],
+    "checked_at": "2026-07-16",
+    "notes": "Добавлено по предоставленному пользователем скриншоту. Второй независимый источник и точный адрес пока не подтверждены."
+  },
+  {
+    "id": "uncertain-chisinau-nails-ana-nails-577",
+    "name": "Ana Nails — nails_ana_md",
+    "niche": "nails",
+    "status": "uncertain",
+    "reason": "insufficient_evidence",
+    "source_urls": [
+      "https://999.md/ro/89786975",
+      "https://www.instagram.com/nails_ana_md/"
+    ],
+    "checked_at": "2026-07-16",
+    "notes": "Instagram при контрольном открытии без авторизации показал недоступный профиль; повторно проверить handle и bio перед обращением."
+  },
+  {
+    "id": "uncertain-chisinau-nails-nailacademy-dina-bruma-578",
+    "name": "NailAcademy Dina Bruma",
+    "niche": "nails",
+    "status": "uncertain",
+    "reason": "insufficient_evidence",
+    "source_urls": [
+      "https://www.beautynailhairsalons.com/MD/Chisinau/712474592447622/NailAcademy-Dina-Bruma",
+      "https://www.facebook.com/712474592447622"
+    ],
+    "checked_at": "2026-07-16",
+    "notes": "В каталоге как Website указан Facebook; прямой bio-редирект нужно повторно проверить в авторизованном браузере."
+  },
+  {
+    "id": "uncertain-chisinau-lashes-lumy-lashmaker-580",
+    "name": "Lumy_Lashmaker.md",
+    "niche": "lashes",
+    "status": "uncertain",
+    "reason": "insufficient_evidence",
+    "source_urls": [
+      "https://www.beautynailhairsalons.com/MD/Chisinau/105885957800513/Lumy_Lashmaker.md",
+      "https://www.facebook.com/105885957800513"
+    ],
+    "checked_at": "2026-07-16",
+    "notes": "Каталог ссылается на Facebook; отсутствие дополнительных bio-ссылок требует повторной проверки."
+  },
+  {
+    "id": "uncertain-chisinau-massage-luxehand-581",
+    "name": "Luxehand Massage",
+    "niche": "massage",
+    "status": "uncertain",
+    "reason": "insufficient_evidence",
+    "source_urls": [
+      "https://999.md/ro/102215920",
+      "https://www.instagram.com/luxehand.md/"
+    ],
+    "checked_at": "2026-07-16",
+    "notes": "Instagram/bio нужно повторно открыть перед контактом; физического кабинета в источнике не подтверждено."
+  },
+  {
+    "id": "uncertain-chisinau-massage-neva-spa-582",
+    "name": "Néva Spa",
+    "niche": "massage",
+    "status": "uncertain",
+    "reason": "insufficient_evidence",
+    "source_urls": [
+      "https://www.beautynailhairsalons.com/MD/Chisinau/714563628398972/N%C3%A9va-Spa",
+      "https://www.facebook.com/714563628398972"
+    ],
+    "checked_at": "2026-07-16",
+    "notes": "В каталоге указан Facebook; собственный сайт не подтверждён, но bio-ссылки нужно перепроверить."
+  },
+  {
+    "id": "uncertain-chisinau-nails-anna-deshanel-583",
+    "name": "Anna Deshanel — annadeshanel",
+    "niche": "nails",
+    "status": "uncertain",
+    "reason": "insufficient_evidence",
+    "source_urls": [
+      "https://999.md/ru/48800217",
+      "https://www.instagram.com/annadeshanel/"
+    ],
+    "checked_at": "2026-07-16",
+    "notes": "Полный телефон не опубликован в доступной выдаче; контакт возможен через Instagram после проверки bio."
+  },
+  {
+    "id": "uncertain-chisinau-lashes-riri-lashh-584",
+    "name": "riri.lashh",
+    "niche": "lashes",
+    "status": "uncertain",
+    "reason": "insufficient_evidence",
+    "source_urls": [
+      "https://999.md/ru/102556057",
+      "https://www.instagram.com/riri.lashh/",
+      "https://t.me/Iriks_8"
+    ],
+    "checked_at": "2026-07-16",
+    "notes": "Нет датируемого второго сигнала активности и полного адреса; обязательна повторная проверка."
+  },
+  {
+    "id": "uncertain-chisinau-lashes-steleasbeauty-585",
+    "name": "Stelea’s Beauty",
+    "niche": "lashes",
+    "status": "uncertain",
+    "reason": "insufficient_evidence",
+    "source_urls": [
+      "https://999.md/ro/80481006",
+      "https://www.instagram.com/steleasbeauty/",
+      "https://www.facebook.com/svetlanamuamd"
+    ],
+    "checked_at": "2026-07-16",
+    "notes": "Прямая карточка 999 и кеш выдачи показали разные данные; запись оставлена кандидатом до повторной сверки."
+  },
+  {
+    "id": "uncertain-chisinau-hair-extensions-alungirea-parului-md-586",
+    "name": "Alungirea Parului MD",
+    "niche": "hair_extensions",
+    "status": "uncertain",
+    "reason": "insufficient_evidence",
+    "source_urls": [
+      "https://999.md/ru/86423748",
+      "https://www.instagram.com/alungirea_parului_md/"
+    ],
+    "checked_at": "2026-07-16",
+    "notes": "Полный телефон и точный адрес не видны в доступной карточке; перепроверить Instagram и bio."
+  },
+  {
+    "id": "uncertain-chisinau-massage-fenix-studio-587",
+    "name": "Fenix Studio Massage",
+    "niche": "massage",
+    "status": "uncertain",
+    "reason": "insufficient_evidence",
+    "source_urls": [
+      "https://yandex.com/maps/org/fenix_studio_massage/92622619037/",
+      "https://around.md/en/place/fenix-studio-massage"
+    ],
+    "checked_at": "2026-07-16",
+    "notes": "Адресный конфликт не позволяет считать лид полностью проверенным; сначала уточнить фактическую локацию."
   }
 ]

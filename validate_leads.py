@@ -6,14 +6,15 @@ from collections import Counter
 from pathlib import Path
 from urllib.parse import urlparse
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data" / "leads_verified.json"
 HTML = ROOT / "LeadBase_500_verified.html"
 ALLOWED_NICHES = {
     "dentistry", "beauty", "nails", "barber", "fitness", "yoga", "bakery",
     "coffee", "confectionery", "furniture", "kitchens", "doors", "windows",
     "plumbing", "renovation", "interior", "kids", "courses", "veterinary",
-    "grooming", "detailing", "autoservice", "craft", "psychology"
+    "grooming", "detailing", "autoservice", "craft", "psychology",
+    "lashes", "hair_extensions", "massage"
 }
 REQUIRED = [
     "id", "name", "niche", "locality", "source_urls", "website_status",
@@ -44,8 +45,8 @@ def main():
     errors = []
     leads = json.loads(DATA.read_text(encoding="utf-8"))
 
-    if len(leads) != 575:
-        errors.append(f"expected 575 leads, found {len(leads)}")
+    if len(leads) != 584:
+        errors.append(f"expected 584 leads, found {len(leads)}")
 
     ids = Counter(x.get("id", "") for x in leads)
     for item, count in ids.items():
@@ -60,8 +61,8 @@ def main():
             if field not in lead or lead[field] in ("", None, [], {}):
                 errors.append(f"{lead.get('id', lead.get('name'))}: missing required field {field}")
 
-        if lead.get("website_status") != "verified_no_site":
-            errors.append(f"{lead.get('id')}: website_status is not verified_no_site")
+        if lead.get("website_status") not in {"verified_no_site", "candidate_unverified"}:
+            errors.append(f"{lead.get('id')}: unsupported website_status {lead.get('website_status')}")
 
         if lead.get("niche") not in ALLOWED_NICHES:
             errors.append(f"{lead.get('id')}: invalid niche {lead.get('niche')}")

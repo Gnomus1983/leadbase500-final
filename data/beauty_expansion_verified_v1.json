@@ -1,0 +1,179 @@
+[
+  {
+    "schema_version": "no-website-leads/v1",
+    "verification_standard": "strict-multisource-v1",
+    "id": "chisinau-nails-nail-studio-rita-busmachiu-579",
+    "entity_key": "phone:37368182688",
+    "entity_type": "solo_business",
+    "name": "Nail Studio Rita Busmachiu",
+    "legal_name": "",
+    "legal_form": "",
+    "idno": "",
+    "legal_identity_status": "not_publicly_confirmed",
+    "niche": "nails",
+    "niche_label": "Маникюрные студии и мастера",
+    "owner_or_manager": "Rita Busmachiu",
+    "locality": "Chișinău",
+    "sector": "Ciocana",
+    "address": "Ciocana, Chișinău (номер помещения перепроверить перед визитом)",
+    "latitude": null,
+    "longitude": null,
+    "phone": [
+      "+37368182688"
+    ],
+    "email": "",
+    "instagram": "",
+    "facebook": "https://www.facebook.com/196674084073999",
+    "tiktok": "",
+    "telegram": "",
+    "whatsapp": "",
+    "maps_url": "",
+    "directory_urls": [
+      "https://www.beautynailhairsalons.com/MD/Chisinau/196674084073999/Nail-Studio-Rita-Busmachiu",
+      "https://moldova.worldplaces.me/review/144915753-nail-studio-rita-busmachiu.html"
+    ],
+    "source_urls": [
+      "https://www.beautynailhairsalons.com/MD/Chisinau/196674084073999/Nail-Studio-Rita-Busmachiu",
+      "https://moldova.worldplaces.me/review/144915753-nail-studio-rita-busmachiu.html",
+      "https://www.facebook.com/196674084073999"
+    ],
+    "public_contact_basis": [
+      {
+        "field": "phone",
+        "source_url": "https://www.beautynailhairsalons.com/MD/Chisinau/196674084073999/Nail-Studio-Rita-Busmachiu",
+        "observed": "Телефон +373 68 182 688 опубликован как контакт студии для записи."
+      },
+      {
+        "field": "address",
+        "source_url": "https://moldova.worldplaces.me/review/144915753-nail-studio-rita-busmachiu.html",
+        "observed": "Каталог подтверждает работу студии в Chișinău и тот же номер телефона."
+      }
+    ],
+    "activity_evidence": {
+      "observed": "Каталог показывает публикацию студии от 16 марта 2026 года.",
+      "source_url": "https://www.beautynailhairsalons.com/MD/Chisinau/196674084073999/Nail-Studio-Rita-Busmachiu",
+      "observed_at": "2026-03-16"
+    },
+    "website_status": "verified_no_site",
+    "website_found_url": "",
+    "website_policy": "strict_owned_web_presence",
+    "website_checks": [
+      {
+        "method": "brand_multilingual_search",
+        "probes": [
+          {
+            "query": "\"Nail Studio Rita Busmachiu\" website Chișinău",
+            "source_url": "",
+            "observed": "В выдаче найдены социальная страница и каталоги; отдельный собственный сайт не обнаружен.",
+            "result": "no_owned_site_found",
+            "checked_at": "2026-07-16"
+          },
+          {
+            "query": "\"Nail Studio Rita Busmachiu\" site oficial OR website",
+            "source_url": "",
+            "observed": "Официальный домен или сайт-конструктор не обнаружен.",
+            "result": "no_owned_site_found",
+            "checked_at": "2026-07-16"
+          }
+        ]
+      },
+      {
+        "method": "legal_name_search",
+        "probes": [
+          {
+            "query": "\"Rita Busmachiu\" SRL OR ÎI OR IDNO",
+            "source_url": "",
+            "observed": "Публичное юридическое название и связанный с ним сайт не подтверждены.",
+            "result": "no_owned_site_found",
+            "checked_at": "2026-07-16"
+          }
+        ]
+      },
+      {
+        "method": "phone_exact_search",
+        "probes": [
+          {
+            "query": "\"+37368182688\"",
+            "source_url": "",
+            "observed": "Точный номер ведёт к карточкам Nail Studio Rita Busmachiu, без отдельного домена.",
+            "result": "no_owned_site_found",
+            "checked_at": "2026-07-16"
+          },
+          {
+            "query": "\"068 182 688\"",
+            "source_url": "",
+            "observed": "Локальный формат номера не выявил собственного сайта.",
+            "result": "no_owned_site_found",
+            "checked_at": "2026-07-16"
+          }
+        ]
+      },
+      {
+        "method": "maps_and_directory_website_fields",
+        "probes": [
+          {
+            "query": "Nail Studio Rita Busmachiu WorldPlaces website field",
+            "source_url": "https://moldova.worldplaces.me/review/144915753-nail-studio-rita-busmachiu.html",
+            "observed": "Карточка указывает отсутствие официального сайта и тот же номер телефона.",
+            "result": "no_owned_site_found",
+            "checked_at": "2026-07-16"
+          }
+        ]
+      },
+      {
+        "method": "social_bio_and_redirects",
+        "probes": [
+          {
+            "query": "Nail Studio Rita Busmachiu Facebook and directory website links",
+            "source_url": "https://www.beautynailhairsalons.com/MD/Chisinau/196674084073999/Nail-Studio-Rita-Busmachiu",
+            "observed": "В поле публичного присутствия указан Facebook; перехода на собственный домен не подтверждено.",
+            "result": "no_owned_site_found",
+            "checked_at": "2026-07-16"
+          }
+        ]
+      },
+      {
+        "method": "probable_domains_and_aliases",
+        "probes": [
+          {
+            "query": "nailstudioritabusmachiu.md",
+            "source_url": "",
+            "observed": "Домен не обнаружен как сайт этой студии.",
+            "result": "no_owned_site_found",
+            "checked_at": "2026-07-16"
+          },
+          {
+            "query": "nailstudioritabusmachiu.com",
+            "source_url": "",
+            "observed": "Домен не обнаружен как сайт этой студии.",
+            "result": "no_owned_site_found",
+            "checked_at": "2026-07-16"
+          },
+          {
+            "query": "ritabusmachiu.md",
+            "source_url": "",
+            "observed": "Домен не обнаружен как сайт этой студии.",
+            "result": "no_owned_site_found",
+            "checked_at": "2026-07-16"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-07-16",
+    "confidence": "medium",
+    "purchase_score": 8,
+    "score_evidence": [
+      "recent_activity:+2",
+      "public_phone:+2",
+      "two_independent_directories:+2",
+      "social_presence:+1",
+      "address_conflict:-1"
+    ],
+    "estimated_budget": "5 000–12 000 MDL",
+    "estimated_budget_mdl": "5 000–12 000",
+    "recommended_approach": "Предложить мобильный сайт-портфолио: работы, прайс, стерилизация, отзывы и запись в один клик.",
+    "outreach_status": "новый",
+    "demo_site_url": "",
+    "notes": "Два каталога подтверждают идентичность и телефон; формулировку адреса нужно уточнить перед личным визитом."
+  }
+]
